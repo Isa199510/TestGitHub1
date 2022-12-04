@@ -13,6 +13,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         print("Print view controller")
         print("add branch 'isa'")
+        print("add branch 'isa2'")
         // Do any additional setup after loading the view.
     }
 
